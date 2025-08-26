@@ -43,7 +43,7 @@ Alongside Flutter, I also work with **.NET, ASP.NET, and SQL Server** to deliver
 ---
 
 ## 🔹 Education
-🎓 **BSCS** – Barani Institute of Information Technology  
+🎓 **BSCS** – PMAS Arid Agriculture University, Rawalpindi  
 
 ---
 
