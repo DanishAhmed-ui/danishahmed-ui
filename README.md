@@ -53,4 +53,3 @@ Alongside Flutter, I also work with **.NET, ASP.NET, and SQL Server** to deliver
 
 ---
 
-🦜 *Fun fact: I have a talking parrot!*  
